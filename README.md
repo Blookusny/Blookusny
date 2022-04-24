@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @Blookusny
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Java
-- 🧨 I'm 13 yo
-- 🎀 I now: JavaScript, HTML, CSS
-- 🎄 I want Christmas
-- 🧧 I speaking in two langs: Polish, English
-
-<h1>This page has been finished soon</h1>
+<h2>hi</h2>
